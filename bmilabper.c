@@ -1,3 +1,19 @@
+/**BMI Ranges
+BMI	Category	Character
+Less than 18.5	Underweight	'U'
+18.5 – 24.9	Normal Weight	'N'
+25.0 – 29.9	Overweight	'O'
+30.0 or above	Obese	'B'
+**/
+
+
+
+
+
+
+
+
+
 #include <stdio.h>
 
 int main()
